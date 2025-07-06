@@ -14,3 +14,4 @@ INSERT INTO Employees VALUES
 (5, 'Eve', 'Davis', 'HR', 52000),
 (6, 'Frank', 'Miller', 'IT', 40000),
 (7, 'Grace', 'Wilson', 'Sales', 48000);
+ 
