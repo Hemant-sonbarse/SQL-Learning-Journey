@@ -15,3 +15,4 @@ FROM Employees
 WHERE Salary > 40000
 GROUP BY Department
 HAVING AVG(Salary) > 50000;
+ 
