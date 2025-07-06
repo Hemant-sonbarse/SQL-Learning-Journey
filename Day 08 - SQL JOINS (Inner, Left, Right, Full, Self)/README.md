@@ -15,3 +15,4 @@
 ## 📌 Practice Tables
 - `Employees.sql`
 - `Departments.sql`
+ 
