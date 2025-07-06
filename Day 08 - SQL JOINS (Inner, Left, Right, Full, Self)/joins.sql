@@ -22,3 +22,4 @@ FULL JOIN Departments D ON E.Department = D.DeptCode;
 SELECT A.FirstName AS Emp1, B.FirstName AS Emp2, A.Department
 FROM Employees A
 JOIN Employees B ON A.Department = B.Department AND A.ID != B.ID;
+ 
